@@ -1,16 +1,18 @@
-### Hi there 👋
+# Bienvenido a mi perfil de GitHub
 
-<!--
-**pais712/pais712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Jonnan, un desarrollador apasionado en backend como frontend. Aquí encontrarás una breve descripción sobre mí y algunos de mis proyectos destacados.
 
-Here are some ideas to get you started:
+## Acerca de mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Actualmente soy junior developer como titulo de diplomado en ING. Software.
+- 📫 Cómo contactarme: jonnanpais90@gmail.com
+
+## Proyectos destacados
+
+- [Proyecto 1](enlace-al-proyecto): Breve descripción del proyecto.
+- [Proyecto 2](enlace-al-proyecto): Breve descripción del proyecto.
+
+## Habilidades
+
+- Lenguajes de programación: [Lista de lenguajes].
+- Tecnologías: [Lista de tecnologías].
