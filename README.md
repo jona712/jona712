@@ -1,20 +1,25 @@
-# Bienvenido a mi perfil de GitHub
+# Hola 👋, soy Jonnan
 
-¡Hola! Soy Jonnan, un desarrollador apasionado en backend como frontend. Aquí encontrarás una breve descripción sobre mí y algunos de mis proyectos destacados.
+Soy un desarrollador de Android apasionado de [Tu País]
 
-## Acerca de mí
+- 🔭 Actualmente estoy trabajando en [Nombre del Proyecto]
+- 🌱 Actualmente estoy aprendiendo [Tecnologías o Herramientas]
+- 👯 Estoy buscando colaborar en [Tipo de Proyectos]
+- 🤝 Busco ayuda con [Nombre del Proyecto o Tecnología]
+- 💼 Todos mis proyectos están disponibles en tu sitio web
+- 📫 Cómo contactarme: !Email
 
-- 💼 Actualmente soy junior developer como titulo de diplomado en ING. Software.
-- 📫 Cómo contactarme: jonnanpais90@gmail.com
+## Conéctate conmigo:
+!Twitter
+!LinkedIn
 
-## Proyectos destacados
+## Lenguajes y Herramientas:
+!Python
+!Java
+!Android
+!Flutter
 
-- [Proyecto 1](https://github.com/pais712/ProyectoNFTs): Venta de NFTs en .NET.
-- [Proyecto 2](https://github.com/pais712/ProyectoFreshFoods): Menú de soda con QR en HTML, CSS, JS.
-- [Proyecto 3](https://github.com/pais712/ProyectoFerreteria): Proyecto academico pagina informativa en HTML, CSS, JS.
- 
+<!-- Puedes agregar más iconos de lenguajes y herramientas de acuerdo a tus habilidades -->
 
-## Habilidades
-
-- Lenguajes de programación: JAVA, C#, PYTHON, JAVASCRIPT, PHP, HTML, CSS.
-- Tecnologías: .NET, REACT.
+## Estadísticas de GitHub:
+!Estadísticas de GitHub
