@@ -10,7 +10,7 @@
 ## Proyectos destacados
 
 - [Proyecto 1](https://github.com/pais712/ProyectoNFTs): Venta de NFTs en .NET.
-- [Proyecto 2](enlace-al-proyecto](https://github.com/pais712/ProyectoFreshFoods)): Menú de soda con QR en HTML, CSS, JS.
+- [Proyecto 2](https://github.com/pais712/ProyectoFreshFoods): Menú de soda con QR en HTML, CSS, JS.
 - [Proyecto 3](https://github.com/pais712/ProyectoFerreteria)): Proyecto academico pagina informativa en HTML, CSS, JS.
  
 
