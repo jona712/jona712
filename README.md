@@ -10,7 +10,8 @@ Soy un desarrollador de Android apasionado de [Tu País]
 - 📫 Cómo contactarme: [Email](mailto:tuemail@example.com)
 
 ## Conéctate conmigo:
-[![Twitter](https://img.shields.io/twitter/follow/tuusuario?style=social)](https://twitter.com/tuusuario)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/pais_712/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/JonnanPaís/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuusuario/)](https://www.linkedin.com/in/tuusuario/)
 
 ## Lenguajes y Herramientas:
