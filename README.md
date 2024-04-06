@@ -4,9 +4,9 @@ Soy un desarrollador de Junior Backend apasionado de Costa Rica
 
 - 🔭 Actualmente estoy trabajando en un proyecto academico de venta de NFTs
 - 🌱 Actualmente estoy aprendiendo Python
-- 👯 Estoy buscando colaborar en Java, C#, .NET
+- 👯 Estoy buscando colaborar con adaptabilidad al cambio
 - 💼 Todos mis proyectos están disponibles en [mi sitio web](https://github.com/pais712?tab=repositories)
-- 📫 Cómo contactarme: [Email](mailto:jonnanpais90@gmail.com)
+- 📫 Cómo contactarme: jonnanpais90@gmail.com
 
 ## Conéctate conmigo:
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/pais_712/)
