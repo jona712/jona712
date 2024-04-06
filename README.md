@@ -9,10 +9,12 @@
 
 ## Proyectos destacados
 
-- [Proyecto 1](enlace-al-proyecto): Breve descripción del proyecto.
-- [Proyecto 2](enlace-al-proyecto): Breve descripción del proyecto.
+- [Proyecto 1](https://github.com/pais712/ProyectoNFTs): Venta de NFTs en .NET.
+- [Proyecto 2](enlace-al-proyecto](https://github.com/pais712/ProyectoFreshFoods)): Menú de soda con QR en HTML, CSS, JS.
+- [Proyecto 3](https://github.com/pais712/ProyectoFerreteria)): Proyecto academico pagina informativa en HTML, CSS, JS.
+ 
 
 ## Habilidades
 
-- Lenguajes de programación: [Lista de lenguajes].
-- Tecnologías: [Lista de tecnologías].
+- Lenguajes de programación: JAVA, C#, PYTHON, JAVASCRIPT, PHP, HTML, CSS.
+- Tecnologías: .NET, REACT.
