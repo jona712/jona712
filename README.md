@@ -1,6 +1,6 @@
 # Hola 👋, soy Jonnan
 
-Soy un desarrollador de Backend apasionado de Costa Rica
+Soy un desarrollador de Junior Backend apasionado de Costa Rica
 
 - 🔭 Actualmente estoy trabajando en un proyecto academico de venta de NFTs
 - 🌱 Actualmente estoy aprendiendo Python
