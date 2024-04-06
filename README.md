@@ -6,12 +6,12 @@ Soy un desarrollador de Junior Backend apasionado de Costa Rica
 - 🌱 Actualmente estoy aprendiendo Python
 - 👯 Estoy buscando colaborar con adaptabilidad al cambio
 - 💼 Todos mis proyectos están disponibles en [GitHub](https://github.com/pais712?tab=repositories)
-- 📫 Cómo contactarme: jonnanpais90@gmail.com
+- 📫 Cómo contactarme: [jonnanpais90@gmail.com](mailto:jonnanpais90@gmail.com)
 
 ## Conéctate conmigo:
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/pais_712/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/JonnanPaís/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuusuario/)](https://www.linkedin.com/in/tuusuario/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario/)
 
 ## Lenguajes y Herramientas:
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
@@ -24,6 +24,4 @@ Soy un desarrollador de Junior Backend apasionado de Costa Rica
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 
-
 <!-- Puedes agregar más iconos de lenguajes y herramientas de acuerdo a tus habilidades -->
-
