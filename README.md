@@ -25,5 +25,3 @@ Soy un desarrollador de Backend apasionado de Costa Rica
 
 <!-- Puedes agregar más iconos de lenguajes y herramientas de acuerdo a tus habilidades -->
 
-## Estadísticas de GitHub:
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=pais712&show_icons=true&theme=radical)
