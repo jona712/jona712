@@ -1,4 +1,4 @@
-# Hola 👋, soy Jonnan
+# Hola 👋, soy [Tu Nombre]
 
 Soy un desarrollador de Android apasionado de [Tu País]
 
@@ -10,14 +10,10 @@ Soy un desarrollador de Android apasionado de [Tu País]
 - 📫 Cómo contactarme: !Email
 
 ## Conéctate conmigo:
-!Twitter
-!LinkedIn
+!Twitter !LinkedIn
 
 ## Lenguajes y Herramientas:
-!Python
-!Java
-!Android
-!Flutter
+!Python !Java !Android !Flutter
 
 <!-- Puedes agregar más iconos de lenguajes y herramientas de acuerdo a tus habilidades -->
 
