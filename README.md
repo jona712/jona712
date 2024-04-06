@@ -2,7 +2,7 @@
 
 Soy un desarrollador Backend Junior apasionado de Costa Rica
 
-- 🔭 Actualmente estoy trabajando en un proyecto academico de venta de NFTs
+- 🔭 Actualmente estoy trabajando en un proyecto académico de venta de NFTs
 - 🌱 Actualmente estoy aprendiendo Python
 - 👯 Estoy buscando colaborar con adaptabilidad al cambio
 - 💼 Todos mis proyectos están disponibles en [GitHub](https://github.com/pais712?tab=repositories)
@@ -25,5 +25,8 @@ Soy un desarrollador Backend Junior apasionado de Costa Rica
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
 
 <!-- Puedes agregar más iconos de lenguajes y herramientas de acuerdo a tus habilidades -->
