@@ -11,7 +11,7 @@ I'm a passionate Junior Backend Developer from Costa Rica.
 ## Connect with me:
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/pais_712/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/LVMwPHuvS6dMFHQQ/?mibextid=qi2Omg)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonnan-pa%C3%ADs-97ab32254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## Languages:
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
