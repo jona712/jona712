@@ -1,6 +1,6 @@
 # Hello 👋, I'm Jonnan
 
-I'm a passionate Junior Backend Developer from Costa Rica.
+I'm a passionate Junior Back-End and Front-End Developer from Costa Rica.
 
 - 🔭 I'm currently working on an academic project for NFT sales.
 - 🌱 I'm currently learning Python.
