@@ -2,8 +2,6 @@
 
 I'm a passionate Junior Back-End and Front-End Developer from Costa Rica.
 
-- 🔭 I'm currently working on an academic project for NFT sales.
-- 🌱 I'm currently learning Python.
 - 👯 I'm looking to collaborate with adaptability to change.
 - 💼 All my projects are available on [GitHub](https://github.com/pais712?tab=repositories)
 - 📫 How to reach me: [jonnanpais90@gmail.com](mailto:jonnanpais90@gmail.com)
