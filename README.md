@@ -1,6 +1,6 @@
 # Hello 👋, I'm Jonnan
 
-I'm a passionate Junior Back-End and Front-End Developer from Costa Rica.
+I'm a passionate Junior Back-End and Front-End Developer from Costa Rica. 
 
 - 👯 I'm looking to collaborate with adaptability to change.
 - 💼 All my projects are available on [GitHub](https://github.com/pais712?tab=repositories)
