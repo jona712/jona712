@@ -2,7 +2,7 @@
 
 I'm a passionate Junior Back-End and Front-End Developer from Costa Rica.
 
-- 👯 I am a passionate advanced software engineering student with a strong academic background and practical skills. Focused on solving problems efficiently and creating innovative     solutions, I have worked and developed on various technologies throughout my studies and projects. I am committed to continuous learning, I seek opportunities to apply and enhance my skills in challenging environments.
+- 👯 I am a advanced software engineering student with a strong academic background and practical skills. Focused on solving problems efficiently and creating innovative     solutions, I have worked and developed on various technologies throughout my studies and projects. I am committed to continuous learning, I seek opportunities to apply and enhance my skills in challenging environments.
 - 💼 All my projects are available on [GitHub](https://github.com/pais712?tab=repositories)
 - 📫 How to reach me: [jonnanpais90@gmail.com](mailto:jonnanpais90@gmail.com)
 
