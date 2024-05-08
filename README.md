@@ -7,7 +7,6 @@ I'm a passionate Junior Back-End and Front-End Developer from Costa Rica.
 - 📫 How to reach me: [jonnanpais90@gmail.com](mailto:jonnanpais90@gmail.com)
 
 ## Connect with me:
-## Connect with me:
 <p align="left">
   <a href="https://www.instagram.com/pais_712/">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="25" />
