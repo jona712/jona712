@@ -43,7 +43,7 @@ I'm a passionate Junior Back-End and Front-End Developer from Costa Rica.
 
 ## Languages Used:
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pais712&theme=vue-dark&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&text_color=777&ring=DD2727&fire=DD2727&currStreakLabel=DD2727" alt="Jonnan's GitHub Languages" />
 </p>
 
