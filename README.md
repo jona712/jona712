@@ -8,14 +8,14 @@ I'm a passionate Junior Fullstack Developer from Costa Rica.
 
 ## Connect with me:
 <p align="left">
+    <a href="https://www.linkedin.com/in/jonnan-pa%C3%ADs-97ab32254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" height="25" />
+  </a>
   <a href="https://www.instagram.com/pais_712/">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="25" />
   </a>
   <a href="https://www.facebook.com/share/LVMwPHuvS6dMFHQQ/?mibextid=qi2Omg">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" height="25" />
-  </a>
-  <a href="https://www.linkedin.com/in/jonnan-pa%C3%ADs-97ab32254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" height="25" />
   </a>
 </p>
 
