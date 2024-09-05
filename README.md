@@ -40,9 +40,7 @@ I'm a passionate Junior Fullstack Developer from Costa Rica.
   <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25" />
   
-  <!-- Not Strong Technologies -->
-  <br /><br />
-  <strong>Not Strong</strong><br />
+  <strong style="margin-top: 20px;">Not Strong</strong><br />
    <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" height="25" />
     <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" height="25" />
    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" height="25" /> 
