@@ -22,7 +22,7 @@ I'm a passionate Junior Fullstack Developer from Costa Rica.
 ## Technologies:
 <p align="left">
   <!-- Strong Technologies -->
-  <strong>Strong</strong><br />
+  <strong>Strong</strong>
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white" height="25" />
@@ -37,8 +37,8 @@ I'm a passionate Junior Fullstack Developer from Costa Rica.
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25" />
   
   <!-- Not Strong Technologies -->
-  <br /><br />
-  <strong>Not Strong</strong><br />
+  <br />
+  <strong>Not Strong</strong>
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" height="25" />
