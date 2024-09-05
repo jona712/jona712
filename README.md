@@ -37,7 +37,7 @@ I'm a passionate Junior Fullstack Developer from Costa Rica.
   <img src="https://img.shields.io/badge/-Visual%20Studio%202022-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/-RESTful%20API-00A1E0?style=flat-square&logo=swagger&logoColor=white" height="25" />
   
-  <strong style="margin-top: 20px;">Not Strong</strong><br />
+  <strong style="margin-top: 20px;">Knowledge in</strong><br />
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" height="25" /> 
