@@ -22,7 +22,7 @@ I'm a passionate Junior Fullstack Developer from Costa Rica.
 ## Technologies:
 <p align="left">
   <!-- Strong Technologies -->
-  <h3 style="margin-top: 0;">Strong</h3>
+  <h3>Strong</h3>
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white" height="25" />
